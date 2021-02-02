@@ -1,4 +1,5 @@
-/*Question 1*/
+/*Analyses multidimensionnelles
+Question 1*/
 /*STEP 1: analyses descriptives*/
 /*distribution Y*/
 Proc freq data=multi.Devoir2_Q1_Train ;
